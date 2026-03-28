@@ -1,8 +1,11 @@
+- keep existing layout
 - replace floor tiles. 
 - replace all wall tiles with subway tiles.
 - include a few rows of decorative tiling midway for walls.
 - replace wallpaper with a modern pattern.
+- modernize mirror.
+- modernize remove cabinet.
 - replace old tub with new one.
-- important: the tub controls are not located on the far wall; they cannot be seen in this photo.
-- replace shower curtain and rod with partition made of entirely of frosted glass.
+- important: the tub controls are not located on the far wall.
+- replace shower curtain and rod with sliding glass door made of frosted glass.
 - replace sink with floating sink. sink must have sufficient work area.
