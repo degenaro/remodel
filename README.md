@@ -1,7 +1,13 @@
 # remodel
 remodel
 
-<img src="images/ChatGPT Image Jan 14, 2026, 07_08_15 AM.png">
+##### Modern bath
+
+<img src="images/modern-bath.01.png">
+
+##### Floor plan
+
+<img src="images/bathroom_floor_plan_window_updated.png">
 
 -----
 
