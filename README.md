@@ -11,7 +11,9 @@ remodel
 
 -----
 
-##### Sinks
+##### Items
 
-[KOHLER-Maxstow-30](https://www.lowes.com/pd/KOHLER-Maxstow-30-In-Wall-Hung-Bathroom-Vanity-Cabinet-With-Sink-And-Quartz-Top/5016058613)
+| Item | Image | Size | Order Size | Cost |
+| :--- | :--- | :--- | :--- | :--- |
+| [Corso Italia Slate Midnight Matte Stone Look Porcelain Floor and Wall Tile](https://www.homedepot.com/p/Corso-Italia-Slate-Midnight-Matte-12-in-x-24-in-Stone-Look-Porcelain-Floor-and-Wall-Tile-13-56-sq-ft-Case-610010005270/331536522#overlay) | <img src="images/floor-tiles.png"> | 12x24 | 3 cases | $54.00 per case |
 
